@@ -1,0 +1,7 @@
+agm-map {
+  height: 500px;
+}
+
+agm-map .sebm-google-map-container-inner {
+    border-radius: 10px !important;
+}
